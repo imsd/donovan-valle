@@ -11,7 +11,7 @@ public class Spawn : MonoBehaviour {
 	// start spawning after... seconds
 	public float StartAfter = 1f;
 	//how often to spawn objects
-	public float SpawnFrequency = .5f;
+	public float SpawnFrequency = .1f;
 
 
 	// Use this for initialization
