@@ -51,6 +51,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\CameraFollow.cs" />
+     <Compile Include="Assets\Scripts\CompleteCameraController.cs" />
+     <Compile Include="Assets\Scripts\keyboardgeneral.cs" />
+     <Compile Include="Assets\Scripts\keyboardLeftRight.cs" />
+     <Compile Include="Assets\Scripts\mouseStuff.cs" />
+     <Compile Include="Assets\Scripts\PlayerController.cs" />
      <Compile Include="Assets\Scripts\Rotate.cs" />
      <Compile Include="Assets\Scripts\Spawner.cs" />
  <Reference Include="UnityEngine.UI">
