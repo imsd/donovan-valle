@@ -4,4 +4,4 @@ This is a simple picth-and-bat baseball game. The idea is to use your timing and
 
 Instructions: Press A to pitch the baseball. Press and hold the SPACE bar in a quick fashion to swing the baseball. 
 
-![the project in action](Baseball_screenshot.gif)
+![the project in action](Baseball_project.gif)
