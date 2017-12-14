@@ -142,7 +142,7 @@ MonoBehaviour:
   HeavyRain: {fileID: 158810196}
   Snow: {fileID: 1443190090}
   Hail: {fileID: 284893997}
-  url: https://www.metaweather.com/api/location/2354490/
+  url: https://www.metaweather.com/api/location/2450022/
 --- !u!4 &31285010
 Transform:
   m_ObjectHideFlags: 0

@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Births.unity
+- path: Assets/Weather/Weather1.unity
   isLoaded: 1
   isActive: 1

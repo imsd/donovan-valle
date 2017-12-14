@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Birth Rate Scene.unity
+  isLoaded: 1
+  isActive: 1

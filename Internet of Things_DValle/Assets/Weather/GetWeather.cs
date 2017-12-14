@@ -66,5 +66,13 @@ public class GetWeather : MonoBehaviour {
 			Hail.SetActive (true);
 		}
 
+		if (WeatherType == "Thunder") {
+			HeavyRain.SetActive (true);
+		}
+
+		if (WeatherType == "Sleet") {
+			LightRain.SetActive (true);
+			Snow.SetActive (true);
+		}
 	}
 }
